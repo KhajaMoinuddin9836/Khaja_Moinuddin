@@ -1,4 +1,4 @@
-I am a Java Developer, i have completed the Java Backend Developer course passionate about building backend course that improve everyday experience.
+I am a Java Developer, i have completed the Java Backend Developer course passionate about building backend that improve everyday experience.
 
 <h1 align="center">Hi 👋, I'm Khaja Moinuddin</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
